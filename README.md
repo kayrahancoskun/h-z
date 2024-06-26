@@ -1,2 +1,2 @@
-# h-z
+# hiz
 yol ve zamandan hız bulma
